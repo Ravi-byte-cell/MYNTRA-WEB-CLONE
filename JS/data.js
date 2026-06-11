@@ -1,7 +1,7 @@
 const item = [
   {
     id: "001",
-    image: "../image/1.jpg",
+    image: "image/1.jpg",
     company: "Carlton London",
     item_name: "Rhodium-Plated CZ Floral Studs",
     original_price: 1045,
@@ -16,7 +16,7 @@ const item = [
   },
   {
     id: "002",
-    image: "../image/2.jpg",
+    image: "image/2.jpg",
     company: "CUKOO",
     item_name: "Women Padded Halter Neck Swimming Dress",
     original_price: 2599,
@@ -31,7 +31,7 @@ const item = [
   },
   {
     id: "003",
-    image: "../image/3.jpg",
+    image: "image/3.jpg",
     company: "NUEVOSDAMAS",
     item_name: "Women Red & White Printed A-Line Knee-Length Skirts",
     original_price: 1599,
@@ -46,7 +46,7 @@ const item = [
   },
   {
     id: "004",
-    image: "../image/4.jpg",
+    image: "image/4.jpg",
     company: "ADIDAS",
     item_name: "Indian Cricket ODI Jersey",
     original_price: 999,
@@ -61,7 +61,7 @@ const item = [
   },
   {
     id: "005",
-    image: "../image/5.jpg",
+    image: "image/5.jpg",
     company: "Roadster",
     item_name: "Pure Cotton T-shirt",
     original_price: 1399,
@@ -76,7 +76,7 @@ const item = [
   },
   {
     id: "006",
-    image: "../image/6.jpg",
+    image: "image/6.jpg",
     company: "Nike",
     item_name: "Men ReactX Running Shoes",
     original_price: 14995,
@@ -91,7 +91,7 @@ const item = [
   },
   {
     id: "007",
-    image: "../image/7.jpg",
+    image: "image/7.jpg",
     company: "The Indian Garage Co",
     item_name: "Men Slim Fit Regular Shorts",
     original_price: 1599,
@@ -106,7 +106,7 @@ const item = [
   },
   {
     id: "008",
-    image: "../image/8.jpg",
+    image: "image/8.jpg",
     company: "Nivea",
     item_name: "Men Fresh Deodrant 150ml",
     original_price: 285,
